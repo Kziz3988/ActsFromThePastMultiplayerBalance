@@ -1,0 +1,21 @@
+{
+  "ACTSFROMTHEPASTMULTIPLAYERBALANCE-MULTIPLAYER_ANGRY_POWER.title": "Angry",
+  "ACTSFROMTHEPASTMULTIPLAYERBALANCE-MULTIPLAYER_ANGRY_POWER.description": "Whenever this enemy receives attack damage from you, damages it deals to you increase by [blue]1[/blue].",
+  "ACTSFROMTHEPASTMULTIPLAYERBALANCE-MULTIPLAYER_ANGRY_POWER.smartDescription": "Whenever this enemy receives attack damage from you, damages it deals to you increase by [blue]{Amount}[/blue].",
+  
+  "ACTSFROMTHEPASTMULTIPLAYERBALANCE-MULTIPLAYER_ENRAGE_POWER.title": "Enrage",
+  "ACTSFROMTHEPASTMULTIPLAYERBALANCE-MULTIPLAYER_ENRAGE_POWER.description": "Whenever you play a Skill, damages this enemy deals to you increase by [blue]1[/blue].",
+  "ACTSFROMTHEPASTMULTIPLAYERBALANCE-MULTIPLAYER_ENRAGE_POWER.smartDescription": "Whenever you play a Skill, damages this enemy deals to you increase by [blue]1[/blue].",
+  
+  "ACTSFROMTHEPASTMULTIPLAYERBALANCE-EXTRA_DAMAGE_POWER.title": "Extra Damage",
+  "ACTSFROMTHEPASTMULTIPLAYERBALANCE-EXTRA_DAMAGE_POWER.description": "Damages the applier deals to you increase by [blue]1[/blue].",
+  "ACTSFROMTHEPASTMULTIPLAYERBALANCE-EXTRA_DAMAGE_POWER.smartDescription": "Damages [gold]{ApplierName}[/gold] deals to you increase by [blue]{Amount}[/blue].",
+  
+  "ACTSFROMTHEPASTMULTIPLAYERBALANCE-MULTIPLAYER_CURIOSITY_POWER.title": "Curiousity",
+  "ACTSFROMTHEPASTMULTIPLAYERBALANCE-MULTIPLAYER_CURIOSITY_POWER.description": "Whenever you play a Power, damages this enemy deals to you increase by [blue]1[/blue].",
+  "ACTSFROMTHEPASTMULTIPLAYERBALANCE-MULTIPLAYER_CURIOSITY_POWER.smartDescription": "Whenever you play a Power, damages this enemy deals to you increase by [blue]1[/blue].",
+
+  "ACTSFROMTHEPASTMULTIPLAYERBALANCE-MULTIPLAYER_SHIFTING_POWER.title": "Shifting",
+  "ACTSFROMTHEPASTMULTIPLAYERBALANCE-MULTIPLAYER_SHIFTING_POWER.description": "When losing a certain amount of HP, loses [blue]1[/blue] [gold]Strength[/gold] until the end of the turn.",
+  "ACTSFROMTHEPASTMULTIPLAYERBALANCE-MULTIPLAYER_SHIFTING_POWER.smartDescription": "For every [blue]{Amount}[/blue] HP lost, loses [blue]1[/blue] [gold]Strength[/gold] until the end of the turn.\n([blue]{CountDown}[/blue] more HP to lose [gold]Strength[/gold])"
+}
